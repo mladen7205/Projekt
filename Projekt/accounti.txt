@@ -1,0 +1,7 @@
+Admin acc
+username: admin
+password: admin123
+
+Gost acc
+username: gost
+password: gost
